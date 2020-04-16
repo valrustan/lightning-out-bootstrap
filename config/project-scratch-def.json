@@ -1,0 +1,10 @@
+{
+  "orgName": "rustanvalino company",
+  "edition": "Developer",
+  "features": ["Communities", "Sites"],
+  "settings": {
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    }
+  }
+}
