@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>LightningOutApp</members>
+    <members>LightningOutComponent</members>
+    <members>TestComponent</members>
+  </types>
+  <types>
+    <name>Network</name>
+    <members>Public Lightning Out</members>
+  </types>
+  <types>
+    <name>SiteDotCom</name>
+    <members>Public_Lightning_Out1</members>
+  </types>
+  <types>
+    <name>CustomSite</name>
+    <members>Public_Lightning_Out</members>
+  </types>
+  <version>48.0</version>
+</Package>

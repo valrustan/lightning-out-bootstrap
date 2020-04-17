@@ -1,0 +1,8 @@
+<aura:component>
+  <aura:attribute type="String" name="componentName" />
+  <aura:attribute type="Object" name="componentAttributes" default="{}" />
+
+  <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+
+  {!v.body}
+</aura:component>

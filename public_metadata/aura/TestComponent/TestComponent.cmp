@@ -1,0 +1,4 @@
+<aura:component>
+  <aura:attribute type="Integer" name="attributeTest" />
+  {!v.attributeTest} Test
+</aura:component>
